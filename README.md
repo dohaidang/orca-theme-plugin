@@ -1,4 +1,4 @@
-# Living ASCII Themes for Orca
+# ASCII Themes for Orca
 
 ![Eight ASCII wallpapers](images/cover.png)
 
