@@ -15,5 +15,10 @@
     "--border": "#3e5373",
     "--ring": "#e7a2eb"
   },
-  "background": { "path": "images/jelly-live.webp", "opacity": 1, "size": "cover", "position": "center" }
+  "background": {
+    "path": "images/jelly.png",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
 }

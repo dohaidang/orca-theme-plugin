@@ -15,5 +15,10 @@
     "--border": "#4d8099",
     "--ring": "#a9e9ff"
   },
-  "background": { "path": "images/cloud-live.webp", "opacity": 1, "size": "cover", "position": "center" }
+  "background": {
+    "path": "images/cloud.png",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
 }

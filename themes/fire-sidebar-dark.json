@@ -23,7 +23,7 @@
     "--sidebar-ring": "#525252"
   },
   "background": {
-    "path": "images/fire-live.webp",
+    "path": "images/fire.png",
     "opacity": 1,
     "size": "cover",
     "position": "center"

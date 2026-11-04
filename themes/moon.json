@@ -15,5 +15,10 @@
     "--border": "#455e7e",
     "--ring": "#c8deef"
   },
-  "background": { "path": "images/moon-live.webp", "opacity": 1, "size": "cover", "position": "center" }
+  "background": {
+    "path": "images/moon.png",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
 }

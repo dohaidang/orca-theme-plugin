@@ -23,7 +23,7 @@
     "--sidebar-ring": "#525252"
   },
   "background": {
-    "path": "images/moon-live.webp",
+    "path": "images/moon.png",
     "opacity": 1,
     "size": "cover",
     "position": "center"

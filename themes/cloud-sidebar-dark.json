@@ -23,7 +23,7 @@
     "--sidebar-ring": "#525252"
   },
   "background": {
-    "path": "images/cloud-live.webp",
+    "path": "images/cloud.png",
     "opacity": 1,
     "size": "cover",
     "position": "center"
