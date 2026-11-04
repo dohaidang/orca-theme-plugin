@@ -12,19 +12,19 @@
   "contributes": {
     "themes": [
       {
-        "id": "claude-code",
-        "title": "ASCII · Claude Code",
-        "path": "themes/claude.json"
+        "id": "coral-sunburst",
+        "title": "ASCII · Coral Sunburst",
+        "path": "themes/coral.json"
       },
       {
-        "id": "claude-code-sidebar-dark",
-        "title": "ASCII · Claude Code (dark sidebar)",
-        "path": "themes/claude-sidebar-dark.json"
+        "id": "coral-sunburst-sidebar-dark",
+        "title": "ASCII · Coral Sunburst (dark sidebar)",
+        "path": "themes/coral-sidebar-dark.json"
       },
       {
-        "id": "claude-code-sidebar-light",
-        "title": "ASCII · Claude Code (light sidebar)",
-        "path": "themes/claude-sidebar-light.json"
+        "id": "coral-sunburst-sidebar-light",
+        "title": "ASCII · Coral Sunburst (light sidebar)",
+        "path": "themes/coral-sidebar-light.json"
       },
       {
         "id": "cloud-drift",
@@ -139,9 +139,9 @@
         "path": "terminal/boats.json"
       },
       {
-        "id": "claude-term",
-        "title": "ASCII · Claude Code",
-        "path": "terminal/claude.json"
+        "id": "coral-term",
+        "title": "ASCII · Coral Sunburst",
+        "path": "terminal/coral.json"
       },
       {
         "id": "cloud-term",

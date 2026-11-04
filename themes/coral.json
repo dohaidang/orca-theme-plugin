@@ -15,5 +15,5 @@
     "--border": "#604047",
     "--ring": "#ff9c7f"
   },
-  "background": { "path": "images/claude-live.webp", "opacity": 1, "size": "cover", "position": "center" }
+  "background": { "path": "images/coral-live.webp", "opacity": 1, "size": "cover", "position": "center" }
 }

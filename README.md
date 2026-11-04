@@ -4,7 +4,7 @@ Eight dark Orca themes with looping ASCII wallpapers, matching terminal palettes
 
 | Theme | Wallpaper |
 |---|---|
-| ASCII · Claude Code | slowly rotating coral sunburst |
+| ASCII · Coral Sunburst | slowly rotating coral sunburst |
 | ASCII · Cloud Drift | white clouds drifting across a blue sky |
 | ASCII · Honu Lagoon | sea turtle swimming under light rays |
 | ASCII · Koi Pond | koi swimming between lily pads |
