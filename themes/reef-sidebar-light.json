@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#0a3f5a",
+    "--foreground": "#effbff",
+    "--card": "#0f4d6a",
+    "--popover": "#11526f",
+    "--sidebar": "#fafafa",
+    "--primary": "#ff8f9e",
+    "--primary-foreground": "#3a121a",
+    "--accent": "#1d6a84",
+    "--accent-foreground": "#f4fdff",
+    "--muted-foreground": "#b5dce8",
+    "--border": "#3d8aa2",
+    "--ring": "#ff8f9e",
+    "--sidebar-foreground": "#0a0a0a",
+    "--sidebar-primary": "#171717",
+    "--sidebar-primary-foreground": "#fafafa",
+    "--sidebar-accent": "#f5f5f5",
+    "--sidebar-accent-foreground": "#171717",
+    "--sidebar-border": "#e5e5e5",
+    "--sidebar-ring": "#a1a1a1"
+  },
+  "background": {
+    "path": "images/reef-live.webp",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

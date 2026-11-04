@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "mode": "dark",
+  "terminal": {
+    "background": "#0b1d2a",
+    "foreground": "#e9fbf4",
+    "cursor": "#6ff0c0",
+    "black": "#1b3e4e",
+    "red": "#ff8a9a",
+    "green": "#6ff0c0",
+    "yellow": "#f6e58d",
+    "blue": "#7fb8ff",
+    "magenta": "#c9a2ff",
+    "cyan": "#7fe8e0",
+    "white": "#e9fbf4"
+  }
+}

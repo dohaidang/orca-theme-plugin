@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#0b1d2a",
+    "--foreground": "#e9fbf4",
+    "--card": "#112838",
+    "--popover": "#142d3e",
+    "--sidebar": "#171717",
+    "--primary": "#6ff0c0",
+    "--primary-foreground": "#0b2a22",
+    "--accent": "#1b3e4e",
+    "--accent-foreground": "#effff9",
+    "--muted-foreground": "#a9cfc6",
+    "--border": "#2f5868",
+    "--ring": "#6ff0c0",
+    "--sidebar-foreground": "#f0f0f0",
+    "--sidebar-primary": "#1447e6",
+    "--sidebar-primary-foreground": "#f0f0f0",
+    "--sidebar-accent": "#262626",
+    "--sidebar-accent-foreground": "#f0f0f0",
+    "--sidebar-border": "#ffffff12",
+    "--sidebar-ring": "#525252"
+  },
+  "background": {
+    "path": "images/aurora-live.webp",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

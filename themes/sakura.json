@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "base": "light",
+  "tokens": {
+    "--background": "#fbf1f3",
+    "--foreground": "#3a2a30",
+    "--card": "#fff7f9",
+    "--popover": "#ffffff",
+    "--sidebar": "#f5e6ea",
+    "--primary": "#b8406f",
+    "--primary-foreground": "#ffffff",
+    "--accent": "#f1d9e0",
+    "--accent-foreground": "#3a2a30",
+    "--muted-foreground": "#735b62",
+    "--border": "#e5cbd3",
+    "--ring": "#b8406f"
+  },
+  "background": {
+    "path": "images/sakura-live.webp",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}
