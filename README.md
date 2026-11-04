@@ -1,8 +1,8 @@
 # ASCII Themes for Orca
 
-![Eight ASCII wallpapers](images/cover.png)
+![Fourteen ASCII wallpapers](images/cover.png)
 
-Eight dark Orca themes with ASCII pixel-art wallpapers, matching terminal palettes and a file/folder icon theme. Content only: the plugin ships data files and runs no code.
+Fourteen Orca themes (thirteen dark, one light) with ASCII pixel-art wallpapers, matching terminal palettes and a file/folder icon theme. Content only: the plugin ships data files and runs no code.
 
 | Theme | Wallpaper |
 |---|---|
@@ -14,6 +14,12 @@ Eight dark Orca themes with ASCII pixel-art wallpapers, matching terminal palett
 | ASCII · Paper Boats | paper boats on the waves |
 | ASCII · Fireflies | fireflies over tall grass |
 | ASCII · Moonlit | crescent moon, stars and clouds |
+| ASCII · Aurora | northern lights over a mountain ridge |
+| ASCII · Neon City | skyline with flickering windows and flying cars |
+| ASCII · Rainy Window | rain streaks and drops over blurred city lights |
+| ASCII · Coral Reef | schools of fish, swaying coral and rising bubbles |
+| ASCII · Snowfall Cabin | snow falling on a cabin with a smoking chimney |
+| ASCII · Cherry Blossom | petals drifting from a blossoming branch (light theme) |
 
 Each theme comes in three variants:
 
@@ -25,16 +31,16 @@ The wallpaper, terminal and chat follow the theme in all three.
 
 ## Contents
 
-- `themes/`: 24 app themes (8 designs × 3 sidebar variants).
-- `terminal/`: 8 terminal palettes, one per design.
+- `themes/`: 42 app themes (14 designs × 3 sidebar variants).
+- `terminal/`: 14 terminal palettes, one per design.
 - `icons/`: one file and folder icon theme (`ASCII · Icons`).
-- `images/`: 8 static wallpapers (1920×1080 PNG), plus the plugin icon and cover.
+- `images/`: 14 static wallpapers (1920×1080 PNG), plus the plugin icon and cover.
 
 ## Install
 
 1. Use Orca **1.4.246 or newer**.
 2. Open **Settings → Plugins**, add this repository and enable the plugin.
-3. Pick a theme under **Settings → Appearance → Dark theme**, or click a **Use now** chip on the plugin page.
+3. Pick a theme under **Settings → Appearance → Dark theme** (or **Light theme** for Cherry Blossom), or click a **Use now** chip on the plugin page.
 4. Optionally pick the matching palette under **Settings → Terminal → Dark Theme**, and `ASCII · Icons` under **Settings → Appearance → Icon theme**.
 
 ## Showing the wallpaper

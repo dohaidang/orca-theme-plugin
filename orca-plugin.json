@@ -3,8 +3,8 @@
   "execution": "data",
   "id": "living-ascii-themes",
   "name": "Living ASCII Themes",
-  "version": "1.4.0",
-  "description": "Eight dark themes with ASCII wallpapers, each with theme, dark or light sidebars, plus matching terminal palettes and file icons.",
+  "version": "1.5.0",
+  "description": "Fourteen ASCII wallpaper themes (thirteen dark, one light), each with theme, dark or light sidebars, plus matching terminal palettes and file icons.",
   "author": {
     "name": "dohaidang",
     "url": "https://github.com/dohaidang"
@@ -14,7 +14,7 @@
   "icon": "images/icon.png",
   "cover": {
     "path": "images/cover.png",
-    "alt": "Eight ASCII wallpapers: coral sunburst, drifting clouds, sea turtle, koi pond, jellyfish, paper boats, fireflies and a crescent moon"
+    "alt": "Fourteen ASCII wallpapers, from a coral sunburst, koi pond and jellyfish to an aurora, neon city, snowy cabin and cherry blossom"
   },
   "engines": {
     "orca": ">=1.4.246"
@@ -140,6 +140,96 @@
         "id": "moonlit-sidebar-light",
         "title": "ASCII · Moonlit (light sidebar)",
         "path": "themes/moon-sidebar-light.json"
+      },
+      {
+        "id": "aurora",
+        "title": "ASCII · Aurora",
+        "path": "themes/aurora.json"
+      },
+      {
+        "id": "aurora-sidebar-dark",
+        "title": "ASCII · Aurora (dark sidebar)",
+        "path": "themes/aurora-sidebar-dark.json"
+      },
+      {
+        "id": "aurora-sidebar-light",
+        "title": "ASCII · Aurora (light sidebar)",
+        "path": "themes/aurora-sidebar-light.json"
+      },
+      {
+        "id": "neon-city",
+        "title": "ASCII · Neon City",
+        "path": "themes/neon.json"
+      },
+      {
+        "id": "neon-city-sidebar-dark",
+        "title": "ASCII · Neon City (dark sidebar)",
+        "path": "themes/neon-sidebar-dark.json"
+      },
+      {
+        "id": "neon-city-sidebar-light",
+        "title": "ASCII · Neon City (light sidebar)",
+        "path": "themes/neon-sidebar-light.json"
+      },
+      {
+        "id": "rainy-window",
+        "title": "ASCII · Rainy Window",
+        "path": "themes/rain.json"
+      },
+      {
+        "id": "rainy-window-sidebar-dark",
+        "title": "ASCII · Rainy Window (dark sidebar)",
+        "path": "themes/rain-sidebar-dark.json"
+      },
+      {
+        "id": "rainy-window-sidebar-light",
+        "title": "ASCII · Rainy Window (light sidebar)",
+        "path": "themes/rain-sidebar-light.json"
+      },
+      {
+        "id": "coral-reef",
+        "title": "ASCII · Coral Reef",
+        "path": "themes/reef.json"
+      },
+      {
+        "id": "coral-reef-sidebar-dark",
+        "title": "ASCII · Coral Reef (dark sidebar)",
+        "path": "themes/reef-sidebar-dark.json"
+      },
+      {
+        "id": "coral-reef-sidebar-light",
+        "title": "ASCII · Coral Reef (light sidebar)",
+        "path": "themes/reef-sidebar-light.json"
+      },
+      {
+        "id": "snowfall-cabin",
+        "title": "ASCII · Snowfall Cabin",
+        "path": "themes/snow.json"
+      },
+      {
+        "id": "snowfall-cabin-sidebar-dark",
+        "title": "ASCII · Snowfall Cabin (dark sidebar)",
+        "path": "themes/snow-sidebar-dark.json"
+      },
+      {
+        "id": "snowfall-cabin-sidebar-light",
+        "title": "ASCII · Snowfall Cabin (light sidebar)",
+        "path": "themes/snow-sidebar-light.json"
+      },
+      {
+        "id": "cherry-blossom",
+        "title": "ASCII · Cherry Blossom",
+        "path": "themes/sakura.json"
+      },
+      {
+        "id": "cherry-blossom-sidebar-dark",
+        "title": "ASCII · Cherry Blossom (dark sidebar)",
+        "path": "themes/sakura-sidebar-dark.json"
+      },
+      {
+        "id": "cherry-blossom-sidebar-light",
+        "title": "ASCII · Cherry Blossom (light sidebar)",
+        "path": "themes/sakura-sidebar-light.json"
       }
     ],
     "terminalThemes": [
@@ -182,6 +272,36 @@
         "id": "moon-term",
         "title": "ASCII · Moonlit",
         "path": "terminal/moon.json"
+      },
+      {
+        "id": "aurora-term",
+        "title": "ASCII · Aurora",
+        "path": "terminal/aurora.json"
+      },
+      {
+        "id": "neon-city-term",
+        "title": "ASCII · Neon City",
+        "path": "terminal/neon.json"
+      },
+      {
+        "id": "rainy-window-term",
+        "title": "ASCII · Rainy Window",
+        "path": "terminal/rain.json"
+      },
+      {
+        "id": "coral-reef-term",
+        "title": "ASCII · Coral Reef",
+        "path": "terminal/reef.json"
+      },
+      {
+        "id": "snowfall-cabin-term",
+        "title": "ASCII · Snowfall Cabin",
+        "path": "terminal/snow.json"
+      },
+      {
+        "id": "cherry-blossom-term",
+        "title": "ASCII · Cherry Blossom",
+        "path": "terminal/sakura.json"
       }
     ],
     "iconThemes": [

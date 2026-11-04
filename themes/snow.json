@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#0f1d31",
+    "--foreground": "#eef5fc",
+    "--card": "#16283f",
+    "--popover": "#192c44",
+    "--sidebar": "#13243a",
+    "--primary": "#ffbf6b",
+    "--primary-foreground": "#3a2410",
+    "--accent": "#243a56",
+    "--accent-foreground": "#f5f9fd",
+    "--muted-foreground": "#adc0d4",
+    "--border": "#36506e",
+    "--ring": "#ffbf6b"
+  },
+  "background": {
+    "path": "images/snow.png",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}
