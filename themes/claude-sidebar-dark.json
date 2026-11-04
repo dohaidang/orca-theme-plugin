@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#1d131b",
+    "--foreground": "#fceee8",
+    "--card": "#2b1c25",
+    "--popover": "#302029",
+    "--sidebar": "#171717",
+    "--primary": "#ff9c7f",
+    "--primary-foreground": "#281417",
+    "--accent": "#4d2e34",
+    "--accent-foreground": "#fff1e8",
+    "--muted-foreground": "#d2b9b4",
+    "--border": "#604047",
+    "--ring": "#ff9c7f",
+    "--sidebar-foreground": "#f0f0f0",
+    "--sidebar-primary": "#1447e6",
+    "--sidebar-primary-foreground": "#f0f0f0",
+    "--sidebar-accent": "#262626",
+    "--sidebar-accent-foreground": "#f0f0f0",
+    "--sidebar-border": "#ffffff12",
+    "--sidebar-ring": "#525252"
+  },
+  "background": {
+    "path": "images/claude-live.webp",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#0f3a59",
+    "--foreground": "#f1fbff",
+    "--card": "#164868",
+    "--popover": "#194d6e",
+    "--sidebar": "#174966",
+    "--primary": "#a9e9ff",
+    "--primary-foreground": "#10364e",
+    "--accent": "#286482",
+    "--accent-foreground": "#f7fdff",
+    "--muted-foreground": "#c0dce9",
+    "--border": "#4d8099",
+    "--ring": "#a9e9ff"
+  },
+  "background": { "path": "images/cloud-live.webp", "opacity": 1, "size": "cover", "position": "center" }
+}

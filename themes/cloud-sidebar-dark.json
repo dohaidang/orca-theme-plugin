@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#0f3a59",
+    "--foreground": "#f1fbff",
+    "--card": "#164868",
+    "--popover": "#194d6e",
+    "--sidebar": "#171717",
+    "--primary": "#a9e9ff",
+    "--primary-foreground": "#10364e",
+    "--accent": "#286482",
+    "--accent-foreground": "#f7fdff",
+    "--muted-foreground": "#c0dce9",
+    "--border": "#4d8099",
+    "--ring": "#a9e9ff",
+    "--sidebar-foreground": "#f0f0f0",
+    "--sidebar-primary": "#1447e6",
+    "--sidebar-primary-foreground": "#f0f0f0",
+    "--sidebar-accent": "#262626",
+    "--sidebar-accent-foreground": "#f0f0f0",
+    "--sidebar-border": "#ffffff12",
+    "--sidebar-ring": "#525252"
+  },
+  "background": {
+    "path": "images/cloud-live.webp",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

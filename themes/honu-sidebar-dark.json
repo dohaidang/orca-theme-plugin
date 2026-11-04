@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#073e50",
+    "--foreground": "#edfffa",
+    "--card": "#0a505d",
+    "--popover": "#0a5560",
+    "--sidebar": "#171717",
+    "--primary": "#87f9dc",
+    "--primary-foreground": "#073b42",
+    "--accent": "#176a70",
+    "--accent-foreground": "#effffb",
+    "--muted-foreground": "#b5dfda",
+    "--border": "#3f8589",
+    "--ring": "#87f9dc",
+    "--sidebar-foreground": "#f0f0f0",
+    "--sidebar-primary": "#1447e6",
+    "--sidebar-primary-foreground": "#f0f0f0",
+    "--sidebar-accent": "#262626",
+    "--sidebar-accent-foreground": "#f0f0f0",
+    "--sidebar-border": "#ffffff12",
+    "--sidebar-ring": "#525252"
+  },
+  "background": {
+    "path": "images/honu-live.webp",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

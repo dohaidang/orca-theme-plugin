@@ -1,0 +1,185 @@
+{
+  "manifestVersion": 2,
+  "execution": "data",
+  "id": "living-ascii-themes",
+  "name": "Living ASCII Themes",
+  "version": "1.3.1",
+  "description": "Eight dark Orca themes with ASCII wallpapers, matching terminal palettes and a file/folder icon theme.",
+  "license": "MIT",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "claude-code",
+        "title": "ASCII · Claude Code",
+        "path": "themes/claude.json"
+      },
+      {
+        "id": "claude-code-sidebar-dark",
+        "title": "ASCII · Claude Code (dark sidebar)",
+        "path": "themes/claude-sidebar-dark.json"
+      },
+      {
+        "id": "claude-code-sidebar-light",
+        "title": "ASCII · Claude Code (light sidebar)",
+        "path": "themes/claude-sidebar-light.json"
+      },
+      {
+        "id": "cloud-drift",
+        "title": "ASCII · Cloud Drift",
+        "path": "themes/cloud.json"
+      },
+      {
+        "id": "cloud-drift-sidebar-dark",
+        "title": "ASCII · Cloud Drift (dark sidebar)",
+        "path": "themes/cloud-sidebar-dark.json"
+      },
+      {
+        "id": "cloud-drift-sidebar-light",
+        "title": "ASCII · Cloud Drift (light sidebar)",
+        "path": "themes/cloud-sidebar-light.json"
+      },
+      {
+        "id": "honu-lagoon",
+        "title": "ASCII · Honu Lagoon",
+        "path": "themes/honu.json"
+      },
+      {
+        "id": "honu-lagoon-sidebar-dark",
+        "title": "ASCII · Honu Lagoon (dark sidebar)",
+        "path": "themes/honu-sidebar-dark.json"
+      },
+      {
+        "id": "honu-lagoon-sidebar-light",
+        "title": "ASCII · Honu Lagoon (light sidebar)",
+        "path": "themes/honu-sidebar-light.json"
+      },
+      {
+        "id": "koi-pond",
+        "title": "ASCII · Koi Pond",
+        "path": "themes/koi.json"
+      },
+      {
+        "id": "koi-pond-sidebar-dark",
+        "title": "ASCII · Koi Pond (dark sidebar)",
+        "path": "themes/koi-sidebar-dark.json"
+      },
+      {
+        "id": "koi-pond-sidebar-light",
+        "title": "ASCII · Koi Pond (light sidebar)",
+        "path": "themes/koi-sidebar-light.json"
+      },
+      {
+        "id": "jellyfish",
+        "title": "ASCII · Jellyfish",
+        "path": "themes/jelly.json"
+      },
+      {
+        "id": "jellyfish-sidebar-dark",
+        "title": "ASCII · Jellyfish (dark sidebar)",
+        "path": "themes/jelly-sidebar-dark.json"
+      },
+      {
+        "id": "jellyfish-sidebar-light",
+        "title": "ASCII · Jellyfish (light sidebar)",
+        "path": "themes/jelly-sidebar-light.json"
+      },
+      {
+        "id": "paper-boats",
+        "title": "ASCII · Paper Boats",
+        "path": "themes/boats.json"
+      },
+      {
+        "id": "paper-boats-sidebar-dark",
+        "title": "ASCII · Paper Boats (dark sidebar)",
+        "path": "themes/boats-sidebar-dark.json"
+      },
+      {
+        "id": "paper-boats-sidebar-light",
+        "title": "ASCII · Paper Boats (light sidebar)",
+        "path": "themes/boats-sidebar-light.json"
+      },
+      {
+        "id": "fireflies",
+        "title": "ASCII · Fireflies",
+        "path": "themes/fire.json"
+      },
+      {
+        "id": "fireflies-sidebar-dark",
+        "title": "ASCII · Fireflies (dark sidebar)",
+        "path": "themes/fire-sidebar-dark.json"
+      },
+      {
+        "id": "fireflies-sidebar-light",
+        "title": "ASCII · Fireflies (light sidebar)",
+        "path": "themes/fire-sidebar-light.json"
+      },
+      {
+        "id": "moonlit",
+        "title": "ASCII · Moonlit",
+        "path": "themes/moon.json"
+      },
+      {
+        "id": "moonlit-sidebar-dark",
+        "title": "ASCII · Moonlit (dark sidebar)",
+        "path": "themes/moon-sidebar-dark.json"
+      },
+      {
+        "id": "moonlit-sidebar-light",
+        "title": "ASCII · Moonlit (light sidebar)",
+        "path": "themes/moon-sidebar-light.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "boats-term",
+        "title": "ASCII · Paper Boats",
+        "path": "terminal/boats.json"
+      },
+      {
+        "id": "claude-term",
+        "title": "ASCII · Claude Code",
+        "path": "terminal/claude.json"
+      },
+      {
+        "id": "cloud-term",
+        "title": "ASCII · Cloud Drift",
+        "path": "terminal/cloud.json"
+      },
+      {
+        "id": "fire-term",
+        "title": "ASCII · Fireflies",
+        "path": "terminal/fire.json"
+      },
+      {
+        "id": "honu-term",
+        "title": "ASCII · Honu Lagoon",
+        "path": "terminal/honu.json"
+      },
+      {
+        "id": "jelly-term",
+        "title": "ASCII · Jellyfish",
+        "path": "terminal/jelly.json"
+      },
+      {
+        "id": "koi-term",
+        "title": "ASCII · Koi Pond",
+        "path": "terminal/koi.json"
+      },
+      {
+        "id": "moon-term",
+        "title": "ASCII · Moonlit",
+        "path": "terminal/moon.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "ascii-icons",
+        "title": "ASCII · Icons",
+        "path": "icons/theme.json"
+      }
+    ]
+  }
+}

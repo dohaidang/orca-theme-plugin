@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#071a32",
+    "--foreground": "#eef4ff",
+    "--card": "#102742",
+    "--popover": "#152c49",
+    "--sidebar": "#102743",
+    "--primary": "#e7a2eb",
+    "--primary-foreground": "#2a1836",
+    "--accent": "#293858",
+    "--accent-foreground": "#f9eaff",
+    "--muted-foreground": "#b8c8e1",
+    "--border": "#3e5373",
+    "--ring": "#e7a2eb"
+  },
+  "background": { "path": "images/jelly-live.webp", "opacity": 1, "size": "cover", "position": "center" }
+}

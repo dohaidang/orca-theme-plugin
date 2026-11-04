@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "icons": {
+    "file": "icons/file.svg",
+    "folder": "icons/folder.svg",
+    "folder-open": "icons/folder-open.svg"
+  },
+  "fileNames": {
+    "readme.md": "icons/md.svg",
+    "package.json": "icons/json.svg",
+    "pom.xml": "icons/xml.svg"
+  },
+  "fileExtensions": {
+    "md": "icons/md.svg",
+    "js": "icons/js.svg",
+    "jsx": "icons/js.svg",
+    "mjs": "icons/js.svg",
+    "ts": "icons/ts.svg",
+    "tsx": "icons/ts.svg",
+    "json": "icons/json.svg",
+    "java": "icons/java.svg",
+    "py": "icons/py.svg",
+    "html": "icons/html.svg",
+    "htm": "icons/html.svg",
+    "css": "icons/css.svg",
+    "scss": "icons/css.svg",
+    "xml": "icons/xml.svg",
+    "sql": "icons/sql.svg",
+    "log": "icons/log.svg",
+    "sh": "icons/sh.svg",
+    "yml": "icons/yml.svg",
+    "yaml": "icons/yml.svg"
+  }
+}

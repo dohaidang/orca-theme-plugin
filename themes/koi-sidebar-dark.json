@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#123b3b",
+    "--foreground": "#f0f9ee",
+    "--card": "#194c48",
+    "--popover": "#1b514b",
+    "--sidebar": "#171717",
+    "--primary": "#ffa36c",
+    "--primary-foreground": "#39231b",
+    "--accent": "#2c6658",
+    "--accent-foreground": "#f5fff3",
+    "--muted-foreground": "#bad6c8",
+    "--border": "#477d6d",
+    "--ring": "#ffa36c",
+    "--sidebar-foreground": "#f0f0f0",
+    "--sidebar-primary": "#1447e6",
+    "--sidebar-primary-foreground": "#f0f0f0",
+    "--sidebar-accent": "#262626",
+    "--sidebar-accent-foreground": "#f0f0f0",
+    "--sidebar-border": "#ffffff12",
+    "--sidebar-ring": "#525252"
+  },
+  "background": {
+    "path": "images/koi-live.webp",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}
