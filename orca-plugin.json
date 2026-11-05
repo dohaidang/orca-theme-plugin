@@ -235,6 +235,36 @@
         "id": "my-wallpaper-sidebar-light",
         "title": "ASCII · My Wallpaper (light sidebar)",
         "path": "themes/custom-sidebar-light.json"
+      },
+      {
+        "id": "my-wallpaper-2",
+        "title": "ASCII · My Wallpaper 2",
+        "path": "themes/custom-2.json"
+      },
+      {
+        "id": "my-wallpaper-2-sidebar-dark",
+        "title": "ASCII · My Wallpaper 2 (dark sidebar)",
+        "path": "themes/custom-2-sidebar-dark.json"
+      },
+      {
+        "id": "my-wallpaper-2-sidebar-light",
+        "title": "ASCII · My Wallpaper 2 (light sidebar)",
+        "path": "themes/custom-2-sidebar-light.json"
+      },
+      {
+        "id": "my-wallpaper-3",
+        "title": "ASCII · My Wallpaper 3",
+        "path": "themes/custom-3.json"
+      },
+      {
+        "id": "my-wallpaper-3-sidebar-dark",
+        "title": "ASCII · My Wallpaper 3 (dark sidebar)",
+        "path": "themes/custom-3-sidebar-dark.json"
+      },
+      {
+        "id": "my-wallpaper-3-sidebar-light",
+        "title": "ASCII · My Wallpaper 3 (light sidebar)",
+        "path": "themes/custom-3-sidebar-light.json"
       }
     ],
     "terminalThemes": [
