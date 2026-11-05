@@ -220,6 +220,21 @@
         "id": "cherry-blossom-sidebar-light",
         "title": "ASCII · Cherry Blossom (light sidebar)",
         "path": "themes/sakura-sidebar-light.json"
+      },
+      {
+        "id": "my-wallpaper",
+        "title": "ASCII · My Wallpaper",
+        "path": "themes/custom.json"
+      },
+      {
+        "id": "my-wallpaper-sidebar-dark",
+        "title": "ASCII · My Wallpaper (dark sidebar)",
+        "path": "themes/custom-sidebar-dark.json"
+      },
+      {
+        "id": "my-wallpaper-sidebar-light",
+        "title": "ASCII · My Wallpaper (light sidebar)",
+        "path": "themes/custom-sidebar-light.json"
       }
     ],
     "terminalThemes": [
@@ -292,6 +307,11 @@
         "id": "cherry-blossom-term",
         "title": "ASCII · Cherry Blossom",
         "path": "terminal/sakura.json"
+      },
+      {
+        "id": "my-wallpaper-term",
+        "title": "ASCII · My Wallpaper",
+        "path": "terminal/custom.json"
       }
     ],
     "iconThemes": [
