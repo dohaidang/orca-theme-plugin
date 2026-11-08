@@ -3,8 +3,8 @@
   "execution": "data",
   "id": "living-ascii-themes",
   "name": "Living ASCII Themes",
-  "version": "1.5.0",
-  "description": "Fourteen ASCII wallpaper themes (thirteen dark, one light), each with theme, dark or light sidebars, plus matching terminal palettes and file icons.",
+  "version": "1.6.0",
+  "description": "Fifteen ASCII wallpaper themes (fourteen dark, one light), each with theme, dark or light sidebars, plus matching terminal palettes and file icons.",
   "license": "MIT",
   "engines": {
     "orca": ">=1.4.246"
@@ -132,6 +132,51 @@
         "path": "themes/moon-sidebar-light.json"
       },
       {
+        "id": "my-wallpaper",
+        "title": "ASCII · My Wallpaper",
+        "path": "themes/custom.json"
+      },
+      {
+        "id": "my-wallpaper-sidebar-dark",
+        "title": "ASCII · My Wallpaper (dark sidebar)",
+        "path": "themes/custom-sidebar-dark.json"
+      },
+      {
+        "id": "my-wallpaper-sidebar-light",
+        "title": "ASCII · My Wallpaper (light sidebar)",
+        "path": "themes/custom-sidebar-light.json"
+      },
+      {
+        "id": "my-wallpaper-2",
+        "title": "ASCII · My Wallpaper 2",
+        "path": "themes/custom-2.json"
+      },
+      {
+        "id": "my-wallpaper-2-sidebar-dark",
+        "title": "ASCII · My Wallpaper 2 (dark sidebar)",
+        "path": "themes/custom-2-sidebar-dark.json"
+      },
+      {
+        "id": "my-wallpaper-2-sidebar-light",
+        "title": "ASCII · My Wallpaper 2 (light sidebar)",
+        "path": "themes/custom-2-sidebar-light.json"
+      },
+      {
+        "id": "my-wallpaper-3",
+        "title": "ASCII · My Wallpaper 3",
+        "path": "themes/custom-3.json"
+      },
+      {
+        "id": "my-wallpaper-3-sidebar-dark",
+        "title": "ASCII · My Wallpaper 3 (dark sidebar)",
+        "path": "themes/custom-3-sidebar-dark.json"
+      },
+      {
+        "id": "my-wallpaper-3-sidebar-light",
+        "title": "ASCII · My Wallpaper 3 (light sidebar)",
+        "path": "themes/custom-3-sidebar-light.json"
+      },
+      {
         "id": "aurora",
         "title": "ASCII · Aurora",
         "path": "themes/aurora.json"
@@ -222,49 +267,19 @@
         "path": "themes/sakura-sidebar-light.json"
       },
       {
-        "id": "my-wallpaper",
-        "title": "ASCII · My Wallpaper",
-        "path": "themes/custom.json"
+        "id": "viet-nam",
+        "title": "ASCII · Việt Nam",
+        "path": "themes/vietnam.json"
       },
       {
-        "id": "my-wallpaper-sidebar-dark",
-        "title": "ASCII · My Wallpaper (dark sidebar)",
-        "path": "themes/custom-sidebar-dark.json"
+        "id": "viet-nam-sidebar-dark",
+        "title": "ASCII · Việt Nam (dark sidebar)",
+        "path": "themes/vietnam-sidebar-dark.json"
       },
       {
-        "id": "my-wallpaper-sidebar-light",
-        "title": "ASCII · My Wallpaper (light sidebar)",
-        "path": "themes/custom-sidebar-light.json"
-      },
-      {
-        "id": "my-wallpaper-2",
-        "title": "ASCII · My Wallpaper 2",
-        "path": "themes/custom-2.json"
-      },
-      {
-        "id": "my-wallpaper-2-sidebar-dark",
-        "title": "ASCII · My Wallpaper 2 (dark sidebar)",
-        "path": "themes/custom-2-sidebar-dark.json"
-      },
-      {
-        "id": "my-wallpaper-2-sidebar-light",
-        "title": "ASCII · My Wallpaper 2 (light sidebar)",
-        "path": "themes/custom-2-sidebar-light.json"
-      },
-      {
-        "id": "my-wallpaper-3",
-        "title": "ASCII · My Wallpaper 3",
-        "path": "themes/custom-3.json"
-      },
-      {
-        "id": "my-wallpaper-3-sidebar-dark",
-        "title": "ASCII · My Wallpaper 3 (dark sidebar)",
-        "path": "themes/custom-3-sidebar-dark.json"
-      },
-      {
-        "id": "my-wallpaper-3-sidebar-light",
-        "title": "ASCII · My Wallpaper 3 (light sidebar)",
-        "path": "themes/custom-3-sidebar-light.json"
+        "id": "viet-nam-sidebar-light",
+        "title": "ASCII · Việt Nam (light sidebar)",
+        "path": "themes/vietnam-sidebar-light.json"
       }
     ],
     "terminalThemes": [
@@ -309,6 +324,11 @@
         "path": "terminal/moon.json"
       },
       {
+        "id": "my-wallpaper-term",
+        "title": "ASCII · My Wallpaper",
+        "path": "terminal/custom.json"
+      },
+      {
         "id": "aurora-term",
         "title": "ASCII · Aurora",
         "path": "terminal/aurora.json"
@@ -339,9 +359,9 @@
         "path": "terminal/sakura.json"
       },
       {
-        "id": "my-wallpaper-term",
-        "title": "ASCII · My Wallpaper",
-        "path": "terminal/custom.json"
+        "id": "viet-nam-term",
+        "title": "ASCII · Việt Nam",
+        "path": "terminal/vietnam.json"
       }
     ],
     "iconThemes": [
