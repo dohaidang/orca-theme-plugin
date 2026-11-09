@@ -1,66 +1,128 @@
-# Living ASCII Themes for Orca
+<p align="center">
+  <img src="images/icon.png" alt="Living ASCII Themes icon" width="88" height="88">
+</p>
 
-![Living ASCII Themes: fifteen pixel-art wallpapers drawn in text characters](images/cover.png)
+<h1 align="center">Living ASCII Themes for Orca</h1>
 
-Pixel-art wallpapers that move, drawn entirely in text characters. Fifteen scenes (fourteen dark, one light), each a seamless 30-second loop, with matching terminal palettes and a file and folder icon theme. The plugin is content only: it ships data files and runs no code.
+<p align="center">A little motion. A lot of characters.</p>
 
-## Themes
+<p align="center">
+  15 animated designs · 45 app themes · 15 terminal palettes · File and folder icons
+</p>
 
-| Theme | Scene |
-|---|---|
-| ASCII · Coral Sunburst | a coral sun, with faint lines of code scrolling past |
-| ASCII · Cloud Drift | white clouds crossing a blue sky |
-| ASCII · Honu Lagoon | sea turtles over sand, coral and swaying seaweed |
-| ASCII · Koi Pond | koi, lotus flowers and spreading ripples between lily pads |
-| ASCII · Jellyfish | jellyfish that pulse as they rise, trailing tentacles |
-| ASCII · Paper Boats | paper boats sailing across the waves |
-| ASCII · Fireflies | fireflies drifting over tall grass |
-| ASCII · Moonlit | a crescent moon, stars, clouds and shooting stars |
-| ASCII · Aurora | northern lights over a mountain ridge |
-| ASCII · Neon City | a skyline with flickering windows and flying cars |
-| ASCII · Rainy Window | rain streaks and drops over blurred city lights |
-| ASCII · Coral Reef | schools of fish, swaying coral and rising bubbles |
-| ASCII · Snowfall Cabin | snow falling on a cabin with a smoking chimney |
-| ASCII · Cherry Blossom | petals drifting from a blossoming branch (the light theme) |
-| ASCII · Việt Nam | the national flag waving at dawn over Ha Long Bay, with junks and birds |
+![Living ASCII Themes: a preview of the collection in Orca](images/cover.png)
 
-Every scene keeps moving across the whole window, not just in one corner, and every loop closes without a seam.
+Bring your Orca workspace to life with wallpapers drawn in ASCII characters. Watch koi drift through a pond, northern lights move across the sky, or the Vietnamese flag wave over Ha Long Bay, with matching app and terminal colors, plus an ASCII file icon theme.
 
-## Variants
+Every design includes a 30-second video loop and a still-image fallback. Choose matching sidebars or keep a familiar dark or light sidebar alongside your wallpaper.
 
-Each theme comes in three variants:
+**Find it useful?** Please consider [giving this project a GitHub star](https://github.com/dohaidang/orca-theme-plugin). It helps other Orca users discover the themes and supports the project. Thank you!
 
-- `ASCII · <name>`: the project and file sidebars follow the theme colors.
-- `ASCII · <name> (dark sidebar)`: the sidebars use Orca's built-in dark sidebar colors.
-- `ASCII · <name> (light sidebar)`: the sidebars use Orca's built-in light sidebar colors.
+## What's included
 
-The wallpaper, terminal and chat follow the theme in all three.
+- **15 wallpaper designs:** 14 dark designs and one light design, Cherry Blossom.
+- **45 app themes:** three sidebar variants for every design.
+- **15 terminal palettes:** a matching color palette for each scene.
+- **ASCII · Icons:** a file and folder icon theme to complete the workspace.
+- **Still-image fallbacks:** wallpapers remain available when video playback is unsupported or reduced motion is enabled.
 
-## Install
+The plugin is content only: it provides themes, images, videos, and icons. It runs no plugin code.
 
-1. Use Orca **1.4.246 or newer**. Animation needs **1.4.254 or newer**; on an older Orca every theme shows its still wallpaper instead.
-2. Open **Settings → Plugins**, add this repository and enable the plugin.
-3. Pick a theme under **Settings → Appearance → Dark theme** (or **Light theme** for Cherry Blossom), or click a **Use now** chip on the plugin page.
-4. Optionally pick the matching palette under **Settings → Terminal → Dark Theme**, and `ASCII · Icons` under **Settings → Appearance → Icon theme**.
+## Get started
 
-## Showing the wallpaper
+### Requirements
 
-Orca paints a theme's wallpaper only behind translucent terminals and chats:
+| Orca version | Wallpaper support |
+| --- | --- |
+| 1.4.246–1.4.253 | Still wallpapers |
+| 1.4.254 or newer | Animated wallpapers and still-image fallbacks |
 
-- Set **Settings → Terminal → Window → Background Opacity** below 1. Start around 0.4, then raise it until text is comfortable to read.
-- Turn off **Settings → Appearance → Reduce Visual Effects**. While it is on, Orca does not paint theme wallpapers at all.
+### Install and choose a theme
 
-The video plays only while the Orca window is focused, and it pauses on its current frame otherwise. With your system set to reduce motion, only the still wallpaper is shown.
+1. Open **Settings → Plugins** in Orca and choose **Add plugin → From a Git URL…**.
+2. Enter `https://github.com/dohaidang/orca-theme-plugin` in **Repository URL**. Install and enable the plugin.
+3. Open **Settings → Appearance → Interface** and select an `ASCII · …` design under **Dark theme** or **Light theme**. You can also use **Use now** on the plugin page.
+4. Select **ASCII · Icons** under **Icon theme** in the same section if you want the matching file and folder icons.
+5. Under **Settings → Appearance → Terminal → Terminal Themes**, choose the corresponding palette to match your terminal colors to the wallpaper.
 
-## What is inside
+### Make the wallpaper visible
 
-- `themes/`: 45 app themes (15 designs × 3 sidebar variants).
-- `terminal/`: 15 terminal palettes, one per design.
-- `icons/`: one file and folder icon theme (`ASCII · Icons`).
-- `images/`: for each design a still wallpaper (1920×1080 PNG) and a looping video (960×540 VP9 WebM, 20 fps, 30 seconds, no audio, 0.3 to 1.5 MB), plus the plugin icon and cover.
+Wallpapers appear behind translucent terminal and chat backgrounds. Set these options first:
 
-The still is the fallback: it is what you see while the video loads, on an Orca without video support, and under reduced motion.
+1. Open **Settings**, search for **Background Opacity**, and set it below `1`. Try `0.4` as a starting point, then adjust for comfortable reading.
+2. Search for **Reduce Visual Effects** and turn it off. You can also find it under **Appearance → Interface → Advanced**.
+3. Return to your workspace and keep the Orca window focused to see the animation.
+
+Video playback pauses when Orca loses focus or a modal overlay is open. Your system's reduced-motion setting uses the still wallpaper instead.
+
+## Explore the collection
+
+Theme names in Orca begin with `ASCII ·`.
+
+| Design | Scene |
+| --- | --- |
+| **Coral Sunburst** | A coral sun with lines of code scrolling past |
+| **Cloud Drift** | White clouds moving through a blue sky |
+| **Honu Lagoon** | Sea turtles over sand, coral, and swaying seaweed |
+| **Koi Pond** | Koi, lotus flowers, lily pads, and spreading ripples |
+| **Jellyfish** | Pulsing jellyfish rising with trailing tentacles |
+| **Paper Boats** | Paper boats sailing across rolling waves |
+| **Fireflies** | Fireflies drifting above tall grass |
+| **Moonlit** | A crescent moon, moving clouds, stars, and shooting stars |
+| **Aurora** | Northern lights over a mountain ridge |
+| **Neon City** | A skyline with flickering windows and flying cars |
+| **Rainy Window** | Rain streaks and droplets over blurred city lights |
+| **Coral Reef** | Schools of fish, swaying coral, and rising bubbles |
+| **Snowfall Cabin** | Falling snow and a cabin with a smoking chimney |
+| **Cherry Blossom** | Petals drifting from a blossoming branch; the light design |
+| **Việt Nam** | The national flag waving at dawn over Ha Long Bay, with boats and birds |
+
+## Choose your sidebar style
+
+Each design has three variants. The wallpaper stays the same; choose how you want the project and file sidebars to look.
+
+| Variant | Sidebar appearance |
+| --- | --- |
+| `ASCII · <name>` | Colors coordinated with the wallpaper |
+| `ASCII · <name> (dark sidebar)` | Orca's built-in dark sidebar colors |
+| `ASCII · <name> (light sidebar)` | Orca's built-in light sidebar colors |
+
+App themes, terminal palettes, and file icons can be selected independently.
+
+## Troubleshooting
+
+### The wallpaper is missing
+
+Check that an `ASCII · …` app theme is selected, **Background Opacity** is below `1`, and **Reduce Visual Effects** is off. Your system's reduced-transparency setting can also prevent the wallpaper from appearing.
+
+### The wallpaper appears, but it does not move
+
+- Use **Orca 1.4.254 or newer** for video playback.
+- Focus the Orca window and return to the workspace from settings or modal dialogs.
+- Check whether your system has reduced motion enabled; that setting intentionally keeps the still wallpaper.
+- If animation stopped after updating the plugin, use **View → Force Reload**. On Windows, the shortcut is **Ctrl + Shift + R**. This reloads the interface and can clear an earlier video playback failure.
+
+### The wallpaper makes text difficult to read
+
+Increase **Background Opacity** until text is comfortable to read, and try a dark or light sidebar variant. Keep opacity below `1` to retain the wallpaper.
+
+## Package contents
+
+| Folder | Contents |
+| --- | --- |
+| `themes/` | 45 app theme definitions |
+| `terminal/` | 15 terminal color palettes |
+| `icons/` | The ASCII file and folder icon theme |
+| `images/` | Wallpaper stills, video loops, the plugin icon, and cover image |
+
+Wallpaper stills are **1920 × 1080 PNGs**. Videos are **960 × 540 VP9 WebM**, **20 fps**, **30 seconds**, with no audio. Each video is approximately **0.3–1.5 MB**.
+
+## Feedback and contributions
+
+Found a problem or have an idea for a new scene? [Open an issue](https://github.com/dohaidang/orca-theme-plugin/issues). For display or playback issues, include your Orca version, the theme name, and a screenshot if possible.
+
+Pull requests are welcome. Please keep changes focused and describe what they improve.
 
 ## License
 
-MIT
+[MIT](LICENSE)
