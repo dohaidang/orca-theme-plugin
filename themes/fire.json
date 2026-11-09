@@ -17,7 +17,7 @@
   },
   "background": {
     "path": "images/fire.png",
-    "videoPath": "images/fire.mp4",
+    "videoPath": "images/fire.webm",
     "opacity": 1,
     "size": "cover",
     "position": "center"

@@ -24,7 +24,7 @@
   },
   "background": {
     "path": "images/sakura.png",
-    "videoPath": "images/sakura.mp4",
+    "videoPath": "images/sakura.webm",
     "opacity": 1,
     "size": "cover",
     "position": "center"

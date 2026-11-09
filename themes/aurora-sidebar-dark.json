@@ -24,7 +24,7 @@
   },
   "background": {
     "path": "images/aurora.png",
-    "videoPath": "images/aurora.mp4",
+    "videoPath": "images/aurora.webm",
     "opacity": 1,
     "size": "cover",
     "position": "center"

@@ -57,7 +57,7 @@ The video plays only while the Orca window is focused, and it pauses on its curr
 - `themes/`: 45 app themes (15 designs × 3 sidebar variants).
 - `terminal/`: 15 terminal palettes, one per design.
 - `icons/`: one file and folder icon theme (`ASCII · Icons`).
-- `images/`: for each design a still wallpaper (1920×1080 PNG) and a looping video (960×540 H.264 MP4, 20 fps, 30 seconds, no audio, 2.5 to 5.5 MB), plus the plugin icon and cover.
+- `images/`: for each design a still wallpaper (1920×1080 PNG) and a looping video (960×540 VP9 WebM, 20 fps, 30 seconds, no audio, 0.3 to 1.5 MB), plus the plugin icon and cover.
 
 The still is the fallback: it is what you see while the video loads, on an Orca without video support, and under reduced motion.
 

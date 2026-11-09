@@ -24,7 +24,7 @@
   },
   "background": {
     "path": "images/rain.png",
-    "videoPath": "images/rain.mp4",
+    "videoPath": "images/rain.webm",
     "opacity": 1,
     "size": "cover",
     "position": "center"

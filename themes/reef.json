@@ -17,7 +17,7 @@
   },
   "background": {
     "path": "images/reef.png",
-    "videoPath": "images/reef.mp4",
+    "videoPath": "images/reef.webm",
     "opacity": 1,
     "size": "cover",
     "position": "center"

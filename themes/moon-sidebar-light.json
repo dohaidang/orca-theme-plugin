@@ -24,7 +24,7 @@
   },
   "background": {
     "path": "images/moon.png",
-    "videoPath": "images/moon.mp4",
+    "videoPath": "images/moon.webm",
     "opacity": 1,
     "size": "cover",
     "position": "center"
