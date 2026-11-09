@@ -17,7 +17,6 @@
   },
   "background": {
     "path": "images/vietnam.png",
-    "videoPath": "images/vietnam.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

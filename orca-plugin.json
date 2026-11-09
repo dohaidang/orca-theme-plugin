@@ -2,9 +2,9 @@
   "manifestVersion": 2,
   "execution": "data",
   "id": "living-ascii-themes",
-  "name": "Living ASCII Themes",
-  "version": "1.6.1",
-  "description": "Fifteen pixel-art wallpaper themes drawn in text characters, each a seamless 30-second loop (video on Orca 1.4.254+), with dark or light sidebar variants, terminal palettes and file icons.",
+  "name": "ASCII Themes",
+  "version": "1.6.2",
+  "description": "Fifteen pixel-art wallpaper themes drawn in text characters, each with dark or light sidebar variants, terminal palettes and file icons.",
   "author": {
     "name": "dohaidang",
     "url": "https://github.com/dohaidang"
@@ -14,7 +14,7 @@
   "icon": "images/icon.png",
   "cover": {
     "path": "images/cover.png",
-    "alt": "Living ASCII Themes: an Orca window with a turtle wallpaper beside the title, above a row of the fifteen pixel-art designs"
+    "alt": "ASCII Themes: an Orca window with a turtle wallpaper beside the title, above a row of the fifteen pixel-art designs"
   },
   "engines": {
     "orca": ">=1.4.246"

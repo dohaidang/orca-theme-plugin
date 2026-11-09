@@ -24,7 +24,6 @@
   },
   "background": {
     "path": "images/fire.png",
-    "videoPath": "images/fire.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

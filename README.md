@@ -1,20 +1,22 @@
 <p align="center">
-  <img src="images/icon.png" alt="Living ASCII Themes icon" width="88" height="88">
+  <img src="images/icon.png" alt="ASCII Themes icon" width="88" height="88">
 </p>
 
-<h1 align="center">Living ASCII Themes for Orca</h1>
+<h1 align="center">ASCII Themes for Orca</h1>
 
-<p align="center">A little motion. A lot of characters.</p>
+<p align="center">Whole worlds, drawn in characters.</p>
 
 <p align="center">
-  15 animated designs · 45 app themes · 15 terminal palettes · File and folder icons
+  15 wallpaper designs · 45 app themes · 15 terminal palettes · File and folder icons
 </p>
 
-![Living ASCII Themes: a preview of the collection in Orca](images/cover.png)
+![ASCII Themes: a preview of the collection in Orca](images/cover.png)
 
-Bring your Orca workspace to life with wallpapers drawn in ASCII characters. Watch koi drift through a pond, northern lights move across the sky, or the Vietnamese flag wave over Ha Long Bay, with matching app and terminal colors, plus an ASCII file icon theme.
+Give your Orca workspace a pixel-art backdrop made of ASCII characters: koi in a pond, northern lights over a mountain ridge, or the Vietnamese flag over Ha Long Bay, with matching app and terminal colors, plus an ASCII file icon theme.
 
-Every design includes a 30-second video loop and a still-image fallback. Choose matching sidebars or keep a familiar dark or light sidebar alongside your wallpaper.
+Every design is a 1920 × 1080 still wallpaper. Choose matching sidebars or keep a familiar dark or light sidebar alongside your wallpaper.
+
+> **Want it to move?** The [`animated` branch](https://github.com/dohaidang/orca-theme-plugin/tree/animated) has the same designs as 30-second looping videos for Orca 1.4.254 or newer. It is not in the Orca catalog yet, because the catalog does not accept video files, so it is installed from the branch.
 
 **Find it useful?** Please consider [giving this project a GitHub star](https://github.com/dohaidang/orca-theme-plugin). It helps other Orca users discover the themes and supports the project. Thank you!
 
@@ -24,18 +26,14 @@ Every design includes a 30-second video loop and a still-image fallback. Choose 
 - **45 app themes:** three sidebar variants for every design.
 - **15 terminal palettes:** a matching color palette for each scene.
 - **ASCII · Icons:** a file and folder icon theme to complete the workspace.
-- **Still-image fallbacks:** wallpapers remain available when video playback is unsupported or reduced motion is enabled.
 
-The plugin is content only: it provides themes, images, videos, and icons. It runs no plugin code.
+The plugin is content only: it provides themes, images, and icons. It runs no plugin code.
 
 ## Get started
 
 ### Requirements
 
-| Orca version | Wallpaper support |
-| --- | --- |
-| 1.4.246–1.4.253 | Still wallpapers |
-| 1.4.254 or newer | Animated wallpapers and still-image fallbacks |
+Orca **1.4.246 or newer**.
 
 ### Install and choose a theme
 
@@ -51,9 +49,7 @@ Wallpapers appear behind translucent terminal and chat backgrounds. Set these op
 
 1. Open **Settings**, search for **Background Opacity**, and set it below `1`. Try `0.4` as a starting point, then adjust for comfortable reading.
 2. Search for **Reduce Visual Effects** and turn it off. You can also find it under **Appearance → Interface → Advanced**.
-3. Return to your workspace and keep the Orca window focused to see the animation.
-
-Video playback pauses when Orca loses focus or a modal overlay is open. Your system's reduced-motion setting uses the still wallpaper instead.
+3. Return to your workspace.
 
 ## Explore the collection
 
@@ -95,13 +91,6 @@ App themes, terminal palettes, and file icons can be selected independently.
 
 Check that an `ASCII · …` app theme is selected, **Background Opacity** is below `1`, and **Reduce Visual Effects** is off. Your system's reduced-transparency setting can also prevent the wallpaper from appearing.
 
-### The wallpaper appears, but it does not move
-
-- Use **Orca 1.4.254 or newer** for video playback.
-- Focus the Orca window and return to the workspace from settings or modal dialogs.
-- Check whether your system has reduced motion enabled; that setting intentionally keeps the still wallpaper.
-- If animation stopped after updating the plugin, use **View → Force Reload**. On Windows, the shortcut is **Ctrl + Shift + R**. This reloads the interface and can clear an earlier video playback failure.
-
 ### The wallpaper makes text difficult to read
 
 Increase **Background Opacity** until text is comfortable to read, and try a dark or light sidebar variant. Keep opacity below `1` to retain the wallpaper.
@@ -113,9 +102,9 @@ Increase **Background Opacity** until text is comfortable to read, and try a dar
 | `themes/` | 45 app theme definitions |
 | `terminal/` | 15 terminal color palettes |
 | `icons/` | The ASCII file and folder icon theme |
-| `images/` | Wallpaper stills, video loops, the plugin icon, and cover image |
+| `images/` | Wallpaper stills, the plugin icon, and cover image |
 
-Wallpaper stills are **1920 × 1080 PNGs**. Videos are **960 × 540 H.264 MP4**, **20 fps**, **30 seconds**, with no audio. Each video is approximately **2.5–2.8 MB**.
+Wallpaper stills are **1920 × 1080 PNGs**.
 
 ## Feedback and contributions
 
