@@ -24,6 +24,7 @@
   },
   "background": {
     "path": "images/jelly.png",
+    "videoPath": "images/jelly.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#0f2f4d",
+    "--foreground": "#f7efe4",
+    "--card": "#143a5c",
+    "--popover": "#173f63",
+    "--sidebar": "#fafafa",
+    "--primary": "#ffd34a",
+    "--primary-foreground": "#3a2a00",
+    "--accent": "#1f4e78",
+    "--accent-foreground": "#fff6e0",
+    "--muted-foreground": "#a9c4d8",
+    "--border": "#2f6a93",
+    "--ring": "#ffd34a",
+    "--sidebar-foreground": "#0a0a0a",
+    "--sidebar-primary": "#171717",
+    "--sidebar-primary-foreground": "#fafafa",
+    "--sidebar-accent": "#f5f5f5",
+    "--sidebar-accent-foreground": "#171717",
+    "--sidebar-border": "#e5e5e5",
+    "--sidebar-ring": "#a1a1a1"
+  },
+  "background": {
+    "path": "images/vietnam.png",
+    "videoPath": "images/vietnam.mp4",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

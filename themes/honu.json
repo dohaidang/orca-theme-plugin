@@ -17,6 +17,7 @@
   },
   "background": {
     "path": "images/honu.png",
+    "videoPath": "images/honu.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"
