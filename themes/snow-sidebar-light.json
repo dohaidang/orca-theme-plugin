@@ -23,7 +23,8 @@
     "--sidebar-ring": "#a1a1a1"
   },
   "background": {
-    "path": "images/snow-live.webp",
+    "path": "images/snow.png",
+    "videoPath": "images/snow.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

@@ -16,7 +16,8 @@
     "--ring": "#6ff0c0"
   },
   "background": {
-    "path": "images/aurora-live.webp",
+    "path": "images/aurora.png",
+    "videoPath": "images/aurora.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

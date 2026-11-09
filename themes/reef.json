@@ -16,7 +16,8 @@
     "--ring": "#ff8f9e"
   },
   "background": {
-    "path": "images/reef-live.webp",
+    "path": "images/reef.png",
+    "videoPath": "images/reef.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

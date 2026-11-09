@@ -23,7 +23,8 @@
     "--sidebar-ring": "#a1a1a1"
   },
   "background": {
-    "path": "images/sakura-live.webp",
+    "path": "images/sakura.png",
+    "videoPath": "images/sakura.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

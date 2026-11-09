@@ -23,7 +23,8 @@
     "--sidebar-ring": "#a1a1a1"
   },
   "background": {
-    "path": "images/jelly-live.webp",
+    "path": "images/jelly.png",
+    "videoPath": "images/jelly.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

@@ -23,7 +23,8 @@
     "--sidebar-ring": "#a1a1a1"
   },
   "background": {
-    "path": "images/boats-live.webp",
+    "path": "images/boats.png",
+    "videoPath": "images/boats.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

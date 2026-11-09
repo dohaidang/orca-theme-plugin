@@ -16,7 +16,8 @@
     "--ring": "#8fc8ee"
   },
   "background": {
-    "path": "images/rain-live.webp",
+    "path": "images/rain.png",
+    "videoPath": "images/rain.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

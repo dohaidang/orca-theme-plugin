@@ -23,7 +23,8 @@
     "--sidebar-ring": "#a1a1a1"
   },
   "background": {
-    "path": "images/koi-live.webp",
+    "path": "images/koi.png",
+    "videoPath": "images/koi.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

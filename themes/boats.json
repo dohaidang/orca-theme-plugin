@@ -15,5 +15,11 @@
     "--border": "#4a888c",
     "--ring": "#dcf6e9"
   },
-  "background": { "path": "images/boats-live.webp", "opacity": 1, "size": "cover", "position": "center" }
+  "background": {
+    "path": "images/boats.png",
+    "videoPath": "images/boats.mp4",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
 }

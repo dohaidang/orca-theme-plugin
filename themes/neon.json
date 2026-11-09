@@ -16,7 +16,8 @@
     "--ring": "#ff5fb4"
   },
   "background": {
-    "path": "images/neon-live.webp",
+    "path": "images/neon.png",
+    "videoPath": "images/neon.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

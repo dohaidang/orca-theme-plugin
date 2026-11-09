@@ -15,5 +15,11 @@
     "--border": "#477d6d",
     "--ring": "#ffa36c"
   },
-  "background": { "path": "images/koi-live.webp", "opacity": 1, "size": "cover", "position": "center" }
+  "background": {
+    "path": "images/koi.png",
+    "videoPath": "images/koi.mp4",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
 }

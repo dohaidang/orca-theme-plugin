@@ -23,7 +23,8 @@
     "--sidebar-ring": "#525252"
   },
   "background": {
-    "path": "images/honu-live.webp",
+    "path": "images/honu.png",
+    "videoPath": "images/honu.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

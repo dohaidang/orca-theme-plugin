@@ -23,7 +23,8 @@
     "--sidebar-ring": "#a1a1a1"
   },
   "background": {
-    "path": "images/reef-live.webp",
+    "path": "images/reef.png",
+    "videoPath": "images/reef.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"
