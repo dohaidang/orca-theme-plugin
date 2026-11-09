@@ -24,7 +24,7 @@
   },
   "background": {
     "path": "images/boats.png",
-    "videoPath": "images/boats.webm",
+    "videoPath": "images/boats.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

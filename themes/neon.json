@@ -17,7 +17,7 @@
   },
   "background": {
     "path": "images/neon.png",
-    "videoPath": "images/neon.webm",
+    "videoPath": "images/neon.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

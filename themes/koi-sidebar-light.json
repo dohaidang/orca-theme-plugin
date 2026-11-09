@@ -24,7 +24,7 @@
   },
   "background": {
     "path": "images/koi.png",
-    "videoPath": "images/koi.webm",
+    "videoPath": "images/koi.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"
