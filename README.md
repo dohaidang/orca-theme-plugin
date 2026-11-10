@@ -115,7 +115,7 @@ Increase **Background Opacity** until text is comfortable to read, and try a dar
 | `icons/` | The ASCII file and folder icon theme |
 | `images/` | Wallpaper stills, video loops, the plugin icon, and cover image |
 
-Wallpaper stills are **1920 × 1080 PNGs**. Videos are **960 × 540 H.264 MP4**, **20 fps**, **30 seconds**, with no audio. Each video is approximately **2.5–2.8 MB**.
+Wallpaper stills are **1920 × 1080 PNGs**. Videos are **960 × 540 H.264 MP4**, **20 fps**, **30 seconds**, with no audio. Each video is approximately **0.2–1.0 MB**.
 
 ## Feedback and contributions
 
