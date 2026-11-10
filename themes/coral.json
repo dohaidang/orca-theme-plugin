@@ -17,6 +17,7 @@
   },
   "background": {
     "path": "images/coral.png",
+    "videoPath": "images/coral.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"

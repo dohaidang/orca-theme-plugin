@@ -3,8 +3,8 @@
   "execution": "data",
   "id": "living-ascii-themes",
   "name": "ASCII Themes",
-  "version": "1.6.2",
-  "description": "Fifteen pixel-art wallpaper themes drawn in text characters, each with dark or light sidebar variants, terminal palettes and file icons.",
+  "version": "1.6.3",
+  "description": "Fifteen pixel-art wallpaper themes drawn in text characters, each a seamless 30-second loop (video on Orca 1.4.254+), with dark or light sidebar variants, terminal palettes and file icons.",
   "author": {
     "name": "dohaidang",
     "url": "https://github.com/dohaidang"

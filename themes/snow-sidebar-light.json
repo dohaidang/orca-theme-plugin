@@ -24,6 +24,7 @@
   },
   "background": {
     "path": "images/snow.png",
+    "videoPath": "images/snow.mp4",
     "opacity": 1,
     "size": "cover",
     "position": "center"
