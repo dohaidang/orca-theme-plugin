@@ -17,12 +17,16 @@ Bring your Orca workspace to life with wallpapers drawn in ASCII characters. Wat
 Every design includes a 30-second video loop and a still-image fallback. Choose matching sidebars or keep a familiar dark or light sidebar alongside your wallpaper.
 
 > [!IMPORTANT]
-> **Quick Setup Note.** To make the ASCII wallpaper visible, adjust these two settings in **Settings → Appearance → Interface → Advanced**:
+> **⚠️ QUICK SETUP NOTE: DO THIS FIRST, OR YOU WILL NOT SEE THE WALLPAPER**
 >
-> - **Background Opacity:** set it to less than `1` (around `0.1`–`0.4` works best). It is also available under **Settings → Appearance → Terminal → Advanced → Background Opacity**.
-> - **Reduce Visual Effects:** it must be turned **Off**.
+> Orca paints a theme's wallpaper only when these **two settings** are right:
 >
-> If the wallpaper still does not show up on Windows, make sure Windows **Transparency effects** are enabled (**Settings → Personalization → Colors → Transparency effects**).
+> | Setting | Where to find it | Set it to |
+> | --- | --- | --- |
+> | **Background Opacity** | **Settings → Appearance → Interface → Advanced**<br>(also **Settings → Appearance → Terminal → Advanced → Background Opacity**) | **Less than `1`**. Around `0.1`–`0.4` works best |
+> | **Reduce Visual Effects** | **Settings → Appearance → Interface → Advanced** | **Off** |
+>
+> 🪟 **On Windows**, if the wallpaper still does not show up, turn **Transparency effects** on in **Windows Settings → Personalization → Colors**.
 
 **Find it useful?** Please consider [giving this project a GitHub star](https://github.com/dohaidang/orca-theme-plugin). It helps other Orca users discover the themes and supports the project. Thank you!
 
@@ -47,22 +51,13 @@ The plugin is content only: it provides themes, images, videos, and icons. It ru
 
 ### Install and choose a theme
 
-1. Open **Settings → Plugins** in Orca and choose **Add plugin → From a Git URL…**.
-2. Enter `https://github.com/dohaidang/orca-theme-plugin` in **Repository URL**. Install and enable the plugin.
-3. Open **Settings → Appearance → Interface** and select an `ASCII · …` design under **Dark theme** or **Light theme**. You can also use **Use now** on the plugin page.
-4. Select **ASCII · Icons** under **Icon theme** in the same section if you want the matching file and folder icons.
-5. Under **Settings → Appearance → Terminal → Terminal Themes**, choose the corresponding palette to match your terminal colors to the wallpaper.
+1. Open **Settings → Plugins** in Orca and find **ASCII Themes** in the plugin list, then install and enable it. If you cannot find it there, use **Install plugin → Git URL** and enter `https://github.com/dohaidang/orca-theme-plugin` in **Repository URL**.
+2. Open **Settings → Appearance → Interface** and select an `ASCII · …` design under **Dark theme** or **Light theme**. You can also use **Use now** on the plugin page.
+3. Select **ASCII · Icons** under **Icon theme** in the same section if you want the matching file and folder icons.
+4. Under **Settings → Appearance → Terminal → Terminal Themes**, choose the corresponding palette to match your terminal colors to the wallpaper.
+5. **Last step: make the wallpaper visible.** Set **Background Opacity** below `1` and turn **Reduce Visual Effects** off, as described in the **Quick Setup Note** at the top of this page. Without this step you will not see any wallpaper.
 
-### Make the wallpaper visible
-
-Wallpapers appear behind translucent terminal and chat backgrounds. Set these options first:
-
-1. Open **Settings → Appearance → Interface → Advanced** and set **Background Opacity** below `1`. Around `0.1`–`0.4` works best; adjust it for comfortable reading. The same setting is under **Settings → Appearance → Terminal → Advanced → Background Opacity**, and searching **Settings** for "Background Opacity" finds it too.
-2. In the same place, turn **Reduce Visual Effects** **Off**. While it is on, Orca does not paint theme wallpapers at all.
-3. On Windows, if the wallpaper still does not show up, enable **Transparency effects** in **Windows Settings → Personalization → Colors**.
-4. Return to your workspace and keep the Orca window focused to see the animation.
-
-Video playback pauses when Orca loses focus or a modal overlay is open. Your system's reduced-motion setting uses the still wallpaper instead.
+Keep the Orca window focused to see the animation. Video playback pauses when Orca loses focus or a modal overlay is open, and your system's reduced-motion setting shows the still wallpaper instead.
 
 ## Explore the collection
 
