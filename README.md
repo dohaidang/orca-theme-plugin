@@ -16,6 +16,14 @@ Bring your Orca workspace to life with wallpapers drawn in ASCII characters. Wat
 
 Every design includes a 30-second video loop and a still-image fallback. Choose matching sidebars or keep a familiar dark or light sidebar alongside your wallpaper.
 
+> [!IMPORTANT]
+> **Quick Setup Note.** To make the ASCII wallpaper visible, adjust these two settings in **Settings → Appearance → Interface → Advanced**:
+>
+> - **Background Opacity:** set it to less than `1` (around `0.1`–`0.4` works best). It is also available under **Settings → Appearance → Terminal → Advanced → Background Opacity**.
+> - **Reduce Visual Effects:** it must be turned **Off**.
+>
+> If the wallpaper still does not show up on Windows, make sure Windows **Transparency effects** are enabled (**Settings → Personalization → Colors → Transparency effects**).
+
 **Find it useful?** Please consider [giving this project a GitHub star](https://github.com/dohaidang/orca-theme-plugin). It helps other Orca users discover the themes and supports the project. Thank you!
 
 ## What's included
@@ -49,9 +57,10 @@ The plugin is content only: it provides themes, images, videos, and icons. It ru
 
 Wallpapers appear behind translucent terminal and chat backgrounds. Set these options first:
 
-1. Open **Settings**, search for **Background Opacity**, and set it below `1`. Try `0.4` as a starting point, then adjust for comfortable reading.
-2. Search for **Reduce Visual Effects** and turn it off. You can also find it under **Appearance → Interface → Advanced**.
-3. Return to your workspace and keep the Orca window focused to see the animation.
+1. Open **Settings → Appearance → Interface → Advanced** and set **Background Opacity** below `1`. Around `0.1`–`0.4` works best; adjust it for comfortable reading. The same setting is under **Settings → Appearance → Terminal → Advanced → Background Opacity**, and searching **Settings** for "Background Opacity" finds it too.
+2. In the same place, turn **Reduce Visual Effects** **Off**. While it is on, Orca does not paint theme wallpapers at all.
+3. On Windows, if the wallpaper still does not show up, enable **Transparency effects** in **Windows Settings → Personalization → Colors**.
+4. Return to your workspace and keep the Orca window focused to see the animation.
 
 Video playback pauses when Orca loses focus or a modal overlay is open. Your system's reduced-motion setting uses the still wallpaper instead.
 
