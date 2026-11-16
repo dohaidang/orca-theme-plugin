@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#0a1228",
+    "--foreground": "#eaf0ff",
+    "--card": "#111b38",
+    "--popover": "#142040",
+    "--sidebar": "#171717",
+    "--primary": "#ffc24a",
+    "--primary-foreground": "#2a1a00",
+    "--accent": "#1c2b52",
+    "--accent-foreground": "#f2f6ff",
+    "--muted-foreground": "#a9b8dc",
+    "--border": "#2f4378",
+    "--ring": "#ffc24a",
+    "--sidebar-foreground": "#f0f0f0",
+    "--sidebar-primary": "#1447e6",
+    "--sidebar-primary-foreground": "#f0f0f0",
+    "--sidebar-accent": "#262626",
+    "--sidebar-accent-foreground": "#f0f0f0",
+    "--sidebar-border": "#ffffff12",
+    "--sidebar-ring": "#525252"
+  },
+  "background": {
+    "path": "images/train.png",
+    "videoPath": "images/train.mp4",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "base": "light",
+  "tokens": {
+    "--background": "#f1f8ee",
+    "--foreground": "#26352a",
+    "--card": "#fbfef9",
+    "--popover": "#ffffff",
+    "--sidebar": "#171717",
+    "--primary": "#2f7d4f",
+    "--primary-foreground": "#ffffff",
+    "--accent": "#dbe9d6",
+    "--accent-foreground": "#26352a",
+    "--muted-foreground": "#53695a",
+    "--border": "#cadcc6",
+    "--ring": "#2f7d4f",
+    "--sidebar-foreground": "#f0f0f0",
+    "--sidebar-primary": "#1447e6",
+    "--sidebar-primary-foreground": "#f0f0f0",
+    "--sidebar-accent": "#262626",
+    "--sidebar-accent-foreground": "#f0f0f0",
+    "--sidebar-border": "#ffffff12",
+    "--sidebar-ring": "#525252"
+  },
+  "background": {
+    "path": "images/windmill.png",
+    "videoPath": "images/windmill.mp4",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

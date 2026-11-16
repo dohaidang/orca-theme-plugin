@@ -3,7 +3,7 @@
   "execution": "data",
   "id": "living-ascii-themes",
   "name": "ASCII Themes",
-  "version": "1.6.6",
+  "version": "1.6.7",
   "description": "Animated ASCII wallpapers with matching sidebar variants, terminal palettes and file icons. Video on Orca 1.4.254+, still image on older versions. To see the wallpaper, set \"Background Opacity\" below 1 and turn off \"Reduce Visual Effects\"",
   "author": {
     "name": "dohaidang",
@@ -245,6 +245,36 @@
         "id": "viet-nam-sidebar-light",
         "title": "ASCII · Việt Nam (light sidebar)",
         "path": "themes/vietnam-sidebar-light.json"
+      },
+      {
+        "id": "night-train",
+        "title": "ASCII · Night Train",
+        "path": "themes/train.json"
+      },
+      {
+        "id": "night-train-sidebar-dark",
+        "title": "ASCII · Night Train (dark sidebar)",
+        "path": "themes/train-sidebar-dark.json"
+      },
+      {
+        "id": "night-train-sidebar-light",
+        "title": "ASCII · Night Train (light sidebar)",
+        "path": "themes/train-sidebar-light.json"
+      },
+      {
+        "id": "windmill-meadow",
+        "title": "ASCII · Windmill Meadow",
+        "path": "themes/windmill.json"
+      },
+      {
+        "id": "windmill-meadow-sidebar-dark",
+        "title": "ASCII · Windmill Meadow (dark sidebar)",
+        "path": "themes/windmill-sidebar-dark.json"
+      },
+      {
+        "id": "windmill-meadow-sidebar-light",
+        "title": "ASCII · Windmill Meadow (light sidebar)",
+        "path": "themes/windmill-sidebar-light.json"
       }
     ],
     "terminalThemes": [
@@ -322,6 +352,16 @@
         "id": "viet-nam-term",
         "title": "ASCII · Việt Nam",
         "path": "terminal/vietnam.json"
+      },
+      {
+        "id": "night-train-term",
+        "title": "ASCII · Night Train",
+        "path": "terminal/train.json"
+      },
+      {
+        "id": "windmill-meadow-term",
+        "title": "ASCII · Windmill Meadow",
+        "path": "terminal/windmill.json"
       }
     ],
     "iconThemes": [

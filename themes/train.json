@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#0a1228",
+    "--foreground": "#eaf0ff",
+    "--card": "#111b38",
+    "--popover": "#142040",
+    "--sidebar": "#0d172f",
+    "--primary": "#ffc24a",
+    "--primary-foreground": "#2a1a00",
+    "--accent": "#1c2b52",
+    "--accent-foreground": "#f2f6ff",
+    "--muted-foreground": "#a9b8dc",
+    "--border": "#2f4378",
+    "--ring": "#ffc24a"
+  },
+  "background": {
+    "path": "images/train.png",
+    "videoPath": "images/train.mp4",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

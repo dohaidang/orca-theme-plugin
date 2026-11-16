@@ -7,12 +7,12 @@
 <p align="center">A little motion. A lot of characters.</p>
 
 <p align="center">
-  15 animated designs · 45 app themes · 15 terminal palettes · File and folder icons
+  17 animated designs · 51 app themes · 17 terminal palettes · File and folder icons
 </p>
 
 ![ASCII Themes: a preview of the collection in Orca](images/cover.png)
 
-Bring your Orca workspace to life with wallpapers drawn in ASCII characters. Watch koi drift through a pond, northern lights move across the sky, or the Vietnamese flag wave over Ha Long Bay, with matching app and terminal colors, plus an ASCII file icon theme.
+Bring your Orca workspace to life with wallpapers drawn in ASCII characters. Watch koi drift through a pond, northern lights move across the sky, a night train cross the countryside, a windmill turn on a sunny meadow, or the Vietnamese flag wave over Ha Long Bay, with matching app and terminal colors, plus an ASCII file icon theme.
 
 Every design includes a 30-second video loop and a still-image fallback. Choose matching sidebars or keep a familiar dark or light sidebar alongside your wallpaper.
 
@@ -20,9 +20,9 @@ Every design includes a 30-second video loop and a still-image fallback. Choose 
 
 ## What's included
 
-- **15 wallpaper designs:** 14 dark designs and one light design, Cherry Blossom.
-- **45 app themes:** three sidebar variants for every design.
-- **15 terminal palettes:** a matching color palette for each scene.
+- **17 wallpaper designs:** 15 dark designs and two light designs, Cherry Blossom and Windmill Meadow.
+- **51 app themes:** three sidebar variants for every design.
+- **17 terminal palettes:** a matching color palette for each scene.
 - **ASCII · Icons:** a file and folder icon theme to complete the workspace.
 - **Still-image fallbacks:** wallpapers remain available when video playback is unsupported or reduced motion is enabled.
 
@@ -80,6 +80,8 @@ Theme names in Orca begin with `ASCII ·`.
 | **Snowfall Cabin** | Falling snow and a cabin with a smoking chimney |
 | **Cherry Blossom** | Petals drifting from a blossoming branch; the light design |
 | **Việt Nam** | The national flag waving at dawn over Ha Long Bay, with boats and birds |
+| **Night Train** | A lit night train crossing the countryside under the stars, with drifting smoke and a shooting star |
+| **Windmill Meadow** | A windmill turning beside a tree on a sunny meadow, with clouds, wildflowers and butterflies; a light design |
 
 ## Choose your sidebar style
 
@@ -114,8 +116,8 @@ Increase **Background Opacity** until text is comfortable to read, and try a dar
 
 | Folder | Contents |
 | --- | --- |
-| `themes/` | 45 app theme definitions |
-| `terminal/` | 15 terminal color palettes |
+| `themes/` | 51 app theme definitions |
+| `terminal/` | 17 terminal color palettes |
 | `icons/` | The ASCII file and folder icon theme |
 | `images/` | Wallpaper stills, video loops, the plugin icon, and cover image |
 
