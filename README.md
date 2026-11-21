@@ -7,12 +7,12 @@
 <p align="center">A little motion. A lot of characters.</p>
 
 <p align="center">
-  19 animated designs · 57 app themes · 19 terminal palettes · File and folder icons
+  20 animated designs · 60 app themes · 20 terminal palettes · File and folder icons
 </p>
 
 ![ASCII Themes: a preview of the collection in Orca](images/cover.png)
 
-Bring your Orca workspace to life with wallpapers drawn in ASCII characters. Watch koi drift through a pond, northern lights move across the sky, a night train cross the countryside, a windmill turn on a sunny meadow, ripples spread across a zen garden, hot-air balloons rise over the fields, or the Vietnamese flag wave over Ha Long Bay, with matching app and terminal colors, plus an ASCII file icon theme.
+Bring your Orca workspace to life with wallpapers drawn in ASCII characters. Watch koi drift through a pond, northern lights move across the sky, a night train cross the countryside, a windmill turn on a sunny meadow, ripples spread across a zen garden, hot-air balloons rise over the fields, steam curl up in a sunny café, or the Vietnamese flag wave over Ha Long Bay, with matching app and terminal colors, plus an ASCII file icon theme.
 
 Every design includes a 30-second video loop and a still-image fallback. Choose matching sidebars or keep a familiar dark or light sidebar alongside your wallpaper.
 
@@ -20,9 +20,9 @@ Every design includes a 30-second video loop and a still-image fallback. Choose 
 
 ## What's included
 
-- **19 wallpaper designs:** 15 dark designs and four light designs: Cherry Blossom, Windmill Meadow, Zen Garden and Hot Air Balloons.
-- **57 app themes:** three sidebar variants for every design.
-- **19 terminal palettes:** a matching color palette for each scene.
+- **20 wallpaper designs:** 15 dark designs and five light designs: Cherry Blossom, Windmill Meadow, Zen Garden, Hot Air Balloons and Lemon Café.
+- **60 app themes:** three sidebar variants for every design.
+- **20 terminal palettes:** a matching color palette for each scene.
 - **ASCII · Icons:** a file and folder icon theme to complete the workspace.
 - **Still-image fallbacks:** wallpapers remain available when video playback is unsupported or reduced motion is enabled.
 
@@ -84,6 +84,7 @@ Theme names in Orca begin with `ASCII ·`.
 | **Windmill Meadow** | A windmill turning beside a tree on a sunny meadow, with clouds, wildflowers and butterflies; a light design |
 | **Zen Garden** | Ripples spreading from mossy rocks in raked sand, with a falling maple, swaying bamboo and a glowing stone lantern; a light design |
 | **Hot Air Balloons** | Hot-air balloons rising and swaying over patchwork fields and soft hills, with a low sun and drifting clouds; a light design |
+| **Lemon Café** | Morning in a small café: leaf shadows swaying on the wall, steam curling from a cup, a bird crossing the window, lemons and a plant; a light design |
 
 ## Choose your sidebar style
 
@@ -118,8 +119,8 @@ Increase **Background Opacity** until text is comfortable to read, and try a dar
 
 | Folder | Contents |
 | --- | --- |
-| `themes/` | 57 app theme definitions |
-| `terminal/` | 19 terminal color palettes |
+| `themes/` | 60 app theme definitions |
+| `terminal/` | 20 terminal color palettes |
 | `icons/` | The ASCII file and folder icon theme |
 | `images/` | Wallpaper stills, video loops, the plugin icon, and cover image |
 

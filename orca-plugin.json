@@ -305,6 +305,21 @@
         "id": "hot-air-balloons-sidebar-light",
         "title": "ASCII · Hot Air Balloons (light sidebar)",
         "path": "themes/balloons-sidebar-light.json"
+      },
+      {
+        "id": "lemon-cafe",
+        "title": "ASCII · Lemon Café",
+        "path": "themes/cafe.json"
+      },
+      {
+        "id": "lemon-cafe-sidebar-dark",
+        "title": "ASCII · Lemon Café (dark sidebar)",
+        "path": "themes/cafe-sidebar-dark.json"
+      },
+      {
+        "id": "lemon-cafe-sidebar-light",
+        "title": "ASCII · Lemon Café (light sidebar)",
+        "path": "themes/cafe-sidebar-light.json"
       }
     ],
     "terminalThemes": [
@@ -402,6 +417,11 @@
         "id": "hot-air-balloons-term",
         "title": "ASCII · Hot Air Balloons",
         "path": "terminal/balloons.json"
+      },
+      {
+        "id": "lemon-cafe-term",
+        "title": "ASCII · Lemon Café",
+        "path": "terminal/cafe.json"
       }
     ],
     "iconThemes": [

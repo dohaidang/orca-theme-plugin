@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "base": "light",
+  "tokens": {
+    "--background": "#fbf3d9",
+    "--foreground": "#3a2e1a",
+    "--card": "#fffaea",
+    "--popover": "#ffffff",
+    "--sidebar": "#fafafa",
+    "--primary": "#b3541a",
+    "--primary-foreground": "#ffffff",
+    "--accent": "#f0e2bd",
+    "--accent-foreground": "#3a2e1a",
+    "--muted-foreground": "#6b5a38",
+    "--border": "#e2d3a8",
+    "--ring": "#b3541a",
+    "--sidebar-foreground": "#0a0a0a",
+    "--sidebar-primary": "#171717",
+    "--sidebar-primary-foreground": "#fafafa",
+    "--sidebar-accent": "#f5f5f5",
+    "--sidebar-accent-foreground": "#171717",
+    "--sidebar-border": "#e5e5e5",
+    "--sidebar-ring": "#a1a1a1"
+  },
+  "background": {
+    "path": "images/cafe.png",
+    "videoPath": "images/cafe.mp4",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}
