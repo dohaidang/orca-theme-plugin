@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "base": "light",
+  "tokens": {
+    "--background": "#fbf1ea",
+    "--foreground": "#3a2a30",
+    "--card": "#fff8f3",
+    "--popover": "#ffffff",
+    "--sidebar": "#f6e6dd",
+    "--primary": "#b94a33",
+    "--primary-foreground": "#ffffff",
+    "--accent": "#f0d9cd",
+    "--accent-foreground": "#3a2a30",
+    "--muted-foreground": "#6f5560",
+    "--border": "#e6cfc4",
+    "--ring": "#b94a33"
+  },
+  "background": {
+    "path": "images/balloons.png",
+    "videoPath": "images/balloons.mp4",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "base": "light",
+  "tokens": {
+    "--background": "#fbf1ea",
+    "--foreground": "#3a2a30",
+    "--card": "#fff8f3",
+    "--popover": "#ffffff",
+    "--sidebar": "#fafafa",
+    "--primary": "#b94a33",
+    "--primary-foreground": "#ffffff",
+    "--accent": "#f0d9cd",
+    "--accent-foreground": "#3a2a30",
+    "--muted-foreground": "#6f5560",
+    "--border": "#e6cfc4",
+    "--ring": "#b94a33",
+    "--sidebar-foreground": "#0a0a0a",
+    "--sidebar-primary": "#171717",
+    "--sidebar-primary-foreground": "#fafafa",
+    "--sidebar-accent": "#f5f5f5",
+    "--sidebar-accent-foreground": "#171717",
+    "--sidebar-border": "#e5e5e5",
+    "--sidebar-ring": "#a1a1a1"
+  },
+  "background": {
+    "path": "images/balloons.png",
+    "videoPath": "images/balloons.mp4",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}

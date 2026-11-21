@@ -3,7 +3,7 @@
   "execution": "data",
   "id": "living-ascii-themes",
   "name": "ASCII Themes",
-  "version": "1.6.8",
+  "version": "1.6.9",
   "description": "Animated ASCII wallpapers with matching sidebar variants, terminal palettes and file icons. Video on Orca 1.4.254+, still image on older versions. To see the wallpaper, set \"Background Opacity\" below 1 and turn off \"Reduce Visual Effects\"",
   "author": {
     "name": "dohaidang",
@@ -290,6 +290,21 @@
         "id": "zen-garden-sidebar-light",
         "title": "ASCII · Zen Garden (light sidebar)",
         "path": "themes/zen-sidebar-light.json"
+      },
+      {
+        "id": "hot-air-balloons",
+        "title": "ASCII · Hot Air Balloons",
+        "path": "themes/balloons.json"
+      },
+      {
+        "id": "hot-air-balloons-sidebar-dark",
+        "title": "ASCII · Hot Air Balloons (dark sidebar)",
+        "path": "themes/balloons-sidebar-dark.json"
+      },
+      {
+        "id": "hot-air-balloons-sidebar-light",
+        "title": "ASCII · Hot Air Balloons (light sidebar)",
+        "path": "themes/balloons-sidebar-light.json"
       }
     ],
     "terminalThemes": [
@@ -382,6 +397,11 @@
         "id": "zen-garden-term",
         "title": "ASCII · Zen Garden",
         "path": "terminal/zen.json"
+      },
+      {
+        "id": "hot-air-balloons-term",
+        "title": "ASCII · Hot Air Balloons",
+        "path": "terminal/balloons.json"
       }
     ],
     "iconThemes": [
