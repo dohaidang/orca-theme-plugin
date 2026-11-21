@@ -3,7 +3,7 @@
   "execution": "data",
   "id": "living-ascii-themes",
   "name": "ASCII Themes",
-  "version": "1.6.7",
+  "version": "1.6.8",
   "description": "Animated ASCII wallpapers with matching sidebar variants, terminal palettes and file icons. Video on Orca 1.4.254+, still image on older versions. To see the wallpaper, set \"Background Opacity\" below 1 and turn off \"Reduce Visual Effects\"",
   "author": {
     "name": "dohaidang",
@@ -275,6 +275,21 @@
         "id": "windmill-meadow-sidebar-light",
         "title": "ASCII · Windmill Meadow (light sidebar)",
         "path": "themes/windmill-sidebar-light.json"
+      },
+      {
+        "id": "zen-garden",
+        "title": "ASCII · Zen Garden",
+        "path": "themes/zen.json"
+      },
+      {
+        "id": "zen-garden-sidebar-dark",
+        "title": "ASCII · Zen Garden (dark sidebar)",
+        "path": "themes/zen-sidebar-dark.json"
+      },
+      {
+        "id": "zen-garden-sidebar-light",
+        "title": "ASCII · Zen Garden (light sidebar)",
+        "path": "themes/zen-sidebar-light.json"
       }
     ],
     "terminalThemes": [
@@ -362,6 +377,11 @@
         "id": "windmill-meadow-term",
         "title": "ASCII · Windmill Meadow",
         "path": "terminal/windmill.json"
+      },
+      {
+        "id": "zen-garden-term",
+        "title": "ASCII · Zen Garden",
+        "path": "terminal/zen.json"
       }
     ],
     "iconThemes": [

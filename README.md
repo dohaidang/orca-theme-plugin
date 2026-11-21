@@ -7,12 +7,12 @@
 <p align="center">A little motion. A lot of characters.</p>
 
 <p align="center">
-  17 animated designs · 51 app themes · 17 terminal palettes · File and folder icons
+  18 animated designs · 54 app themes · 18 terminal palettes · File and folder icons
 </p>
 
 ![ASCII Themes: a preview of the collection in Orca](images/cover.png)
 
-Bring your Orca workspace to life with wallpapers drawn in ASCII characters. Watch koi drift through a pond, northern lights move across the sky, a night train cross the countryside, a windmill turn on a sunny meadow, or the Vietnamese flag wave over Ha Long Bay, with matching app and terminal colors, plus an ASCII file icon theme.
+Bring your Orca workspace to life with wallpapers drawn in ASCII characters. Watch koi drift through a pond, northern lights move across the sky, a night train cross the countryside, a windmill turn on a sunny meadow, ripples spread across a zen garden, or the Vietnamese flag wave over Ha Long Bay, with matching app and terminal colors, plus an ASCII file icon theme.
 
 Every design includes a 30-second video loop and a still-image fallback. Choose matching sidebars or keep a familiar dark or light sidebar alongside your wallpaper.
 
@@ -20,9 +20,9 @@ Every design includes a 30-second video loop and a still-image fallback. Choose 
 
 ## What's included
 
-- **17 wallpaper designs:** 15 dark designs and two light designs, Cherry Blossom and Windmill Meadow.
-- **51 app themes:** three sidebar variants for every design.
-- **17 terminal palettes:** a matching color palette for each scene.
+- **18 wallpaper designs:** 15 dark designs and three light designs, Cherry Blossom, Windmill Meadow and Zen Garden.
+- **54 app themes:** three sidebar variants for every design.
+- **18 terminal palettes:** a matching color palette for each scene.
 - **ASCII · Icons:** a file and folder icon theme to complete the workspace.
 - **Still-image fallbacks:** wallpapers remain available when video playback is unsupported or reduced motion is enabled.
 
@@ -82,6 +82,7 @@ Theme names in Orca begin with `ASCII ·`.
 | **Việt Nam** | The national flag waving at dawn over Ha Long Bay, with boats and birds |
 | **Night Train** | A lit night train crossing the countryside under the stars, with drifting smoke and a shooting star |
 | **Windmill Meadow** | A windmill turning beside a tree on a sunny meadow, with clouds, wildflowers and butterflies; a light design |
+| **Zen Garden** | Ripples spreading from mossy rocks in raked sand, with a falling maple, swaying bamboo and a glowing stone lantern; a light design |
 
 ## Choose your sidebar style
 
@@ -116,8 +117,8 @@ Increase **Background Opacity** until text is comfortable to read, and try a dar
 
 | Folder | Contents |
 | --- | --- |
-| `themes/` | 51 app theme definitions |
-| `terminal/` | 17 terminal color palettes |
+| `themes/` | 54 app theme definitions |
+| `terminal/` | 18 terminal color palettes |
 | `icons/` | The ASCII file and folder icon theme |
 | `images/` | Wallpaper stills, video loops, the plugin icon, and cover image |
 
